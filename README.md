@@ -8,7 +8,7 @@
 
 _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate project for Mac/Linux only._ This project uses an entirely different philosophy and is not just a clone of nvm. Details are listed in [Why another version manager?](#bulb-why-another-version-manager) and [what&#39;s the big difference?](#bulb-whats-the-big-difference).<br>
 
-The original NVM for Windows was discontinued in 2023 by Corey Butler.<br>
+The original NVM for Windows, by Corey Butler, had no update from 2023 to November 27, 2024.<br>
 
 This fork was started by Alessandro Ramos da Silva in 2024 because he noticed NVM was very useful for the community and planned new small features for the tool.
 </details>
